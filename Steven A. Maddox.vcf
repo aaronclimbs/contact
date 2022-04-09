@@ -6,7 +6,7 @@ ORG:Procopio
 TITLE:Partner
 TEL;WORK;VOICE:202.830.0238
 TEL;CELL;VOICE:(202) 253-9234
-ADR;WORK;PREF:1050 Connecticut Ave., NW, Suite 500;Washington;1050 Connecticut Avenue, N.W., Suite 500;Washington;DC;20036;United States of America
+ADR;WORK:1050 Connecticut Ave., NW, Suite 500;Washington;DC;20006
 LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE:1050 Connecticut Avenue, N.W., Suite 500=0D=0A=
 Washington, DC 20036
 X-MS-OL-DEFAULT-POSTAL-ADDRESS:2
